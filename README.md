@@ -231,5 +231,5 @@ AR (Tuned)	lag=14	17,699	22,221
 * This project demonstrates the application of data science in healthcare analytics.
 
 
-Prachi Patel
+**Prachi Patel**
 Aspiring Data Scientist | Machine Learning Enthusiast
